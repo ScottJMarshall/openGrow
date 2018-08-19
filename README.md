@@ -1,0 +1,2 @@
+# openGrow
+Aeroponic Automation Software
